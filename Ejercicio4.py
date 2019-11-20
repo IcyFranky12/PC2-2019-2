@@ -9,8 +9,16 @@ while True:
     else:
         break
     
+if a == 2:
+    print("|", random.randint(1,100), random.randint(1,100),"|")
+    print("|", random.randint(1,100), random.randint(1,100),"|")
 
 if a == 3:
     print("|", random.randint(1,100), random.randint(1,100), random.randint(1,100), "|")
     print("|", random.randint(1,100), random.randint(1,100), random.randint(1,100), "|")
     print("|", random.randint(1,100), random.randint(1,100), random.randint(1,100), "|")
+if a == 4:
+    print("|", random.randint(1,100), random.randint(1,100), random.randint(1,100), random.randint(1,100), "|")
+    print("|", random.randint(1,100), random.randint(1,100), random.randint(1,100), random.randint(1,100), "|")
+    print("|", random.randint(1,100), random.randint(1,100), random.randint(1,100), random.randint(1,100), "|")
+    print("|", random.randint(1,100), random.randint(1,100), random.randint(1,100), random.randint(1,100), "|")
